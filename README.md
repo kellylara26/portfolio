@@ -42,16 +42,16 @@
                 <div>
                     <h3>Comportamentais e Gestão:</h3>
                     <ul>
-                        <li>Proatividade e Iniciativa:** Capacidade de antecipar necessidades e tomar ações eficazes.</li>
-                        <li>Atenção aos Detalhes:** Forte habilidade de observação e precisão nas tarefas.</li>
-                        <li>Organização e Planejamento:** Competência na gestão de tarefas e manutenção da ordem.</li>
-                        <li>Comunicação Eficaz:** Habilidade para se expressar de forma clara e assertiva.</li>
-                        <li>Trabalho em Equipe:** Facilidade para colaborar e integrar-se a equipes multidisciplinares.</li>
-                        <li>Resolução de Problemas:** Aptidão para identificar desafios e propor soluções eficientes.</li>
-                        <li>Adaptabilidade:** Capacidade de se ajustar a novas situações e tecnologias.</li>
-                        <li>Atendimento ao Cliente:** Foco na qualidade do serviço e satisfação do cliente (com base em cursos do Sebrae).</li>
-                        <li>Noções de Gestão:** Conhecimentos em Gestão de Pessoas e aplicação de IA na prática para pequenos negócios (Sebrae).</li>
-                        <li>Design Thinking:** Entendimento da metodologia Design Thinking para Educadores.</li>
+                        <li>Proatividade e Iniciativa: Capacidade de antecipar necessidades e tomar ações eficazes.</li>
+                        <li>Atenção aos Detalhes: Forte habilidade de observação e precisão nas tarefas.</li>
+                        <li>Organização e Planejamento: Competência na gestão de tarefas e manutenção da ordem.</li>
+                        <li>Comunicação Eficaz: Habilidade para se expressar de forma clara e assertiva.</li>
+                        <li>Trabalho em Equipe: Facilidade para colaborar e integrar-se a equipes multidisciplinares.</li>
+                        <li>Resolução de Problemas: Aptidão para identificar desafios e propor soluções eficientes.</li>
+                        <li>Adaptabilidade: Capacidade de se ajustar a novas situações e tecnologias.</li>
+                        <li>Atendimento ao Cliente: Foco na qualidade do serviço e satisfação do cliente (com base em cursos do Sebrae).</li>
+                        <li>Noções de Gestão: Conhecimentos em Gestão de Pessoas e aplicação de IA na prática para pequenos negócios (Sebrae).</li>
+                        <li>Design Thinking: Entendimento da metodologia Design Thinking para Educadores.</li>
                     </ul>
                 </div>
                 <div>
@@ -137,7 +137,7 @@
                 <li>Microsoft Excel 2010 - Básico (11 horas) - Fundação Bradesco - Escola Virtual (Concluído em 09/03/2019) </li>
                 <li>Qualidade no Atendimento - Sebrae</li>
                 <li>Atendimento ao Cliente - Sebrae</li>
-                <li>Gestão de Pessoas** - Sebrae</li>
+                <li>Gestão de Pessoas - Sebrae</li>
                 <li>IA na Prática para Pequenos Negócios - Sebrae</li>
                 <li>NR 10 (Segurança em Instalações e Serviços em Eletricidade)</li>
                 <li>NR 35 (Trabalho em Altura)</li>
